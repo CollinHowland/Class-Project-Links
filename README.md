@@ -27,6 +27,6 @@ This project allows a user to view stories and comments posted by registered use
 ### Room for Impovement:
 
 * The general look and layout could be greatly improved (but visuals were not the goal of this project).
-* The textboxes for creating/editing titles, content, and comments could be increased in size for user readability.
+* The text boxes for creating/editing titles, content, and comments could be increased in size for user readability.
 * There are no client-side scripts so all updates are done by changing or refreshing pages, but again, the goal of this project was integrating MySQL with PHP. Ideally this overhaul would be made in future updates.
 
