@@ -2,6 +2,8 @@
 
 Due to the liability of current and/or future students copying my work, my actual code files are in a private repository. I am more than happy to give access to this repository upon request, as long as you will not use or allow others to use this code (intentionally or not) for CSE courses offered at my school.
 
+**Note:** The EC2 instance hosting these websites has been shut down, so the links are no longer active.
+
 
 ## Calendar
 http://ec2-18-219-218-157.us-east-2.compute.amazonaws.com/~collinH/module5_Group/Calendar.php
