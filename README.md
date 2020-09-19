@@ -6,7 +6,6 @@ Due to the liability of current and/or future students copying my work, my actua
 
 
 ## Calendar
-http://ec2-18-219-218-157.us-east-2.compute.amazonaws.com/~collinH/module5_Group/Calendar.php
 
 ### Description
 
@@ -25,7 +24,6 @@ Many, if not all, of these items were a necesseray calamity due to the time rest
 
 
 ## News Sharing Site
-http://ec2-18-219-218-157.us-east-2.compute.amazonaws.com/~collinH/module3_group/Storyboard.php
 
 ### Description
 
